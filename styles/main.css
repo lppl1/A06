@@ -26,4 +26,7 @@ header{
         font-style: italic;
         text-indent: 30px;
     }
+    img{
+        float: left;
+    }
 }
